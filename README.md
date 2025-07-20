@@ -1,6 +1,8 @@
 #🤖 Robotic Arm Prototype
 ## A 5 DOF Robotic Arm 🦾 Designed By Me Using Solidworks.
 
+### The Entire Prototype Was Designed In Under 6 Hours
+
 This project showcases the early-stage design of a 5 Degrees of Freedom (5-DOF) robotic arm, fully modeled in SolidWorks. It's still a prototype — work in progress —
 
 💡 What It Is:
