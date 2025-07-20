@@ -8,7 +8,7 @@ This project showcases the early-stage design of a 5 Degrees of Freedom (5-DOF) 
 A mechanical robotic arm with 5 rotational joints designed to mimic human-arm-like movements. 
 It's built to handle basic automation tasks such as object manipulation, pick-and-place, and more.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 
 CAD Software: SolidWorks
 
