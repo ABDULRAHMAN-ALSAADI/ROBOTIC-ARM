@@ -33,3 +33,9 @@ Status: 🧪 Prototype (Under Development)
 
 🌟 Goal
 To evolve this prototype into a fully functional robotic arm system suitable for small-scale automation, lab tasks, or integration with mobile platforms like AGVs/AMRs.
+
+
+![ARM ASSEMBLY](https://github.com/user-attachments/assets/ede1b64c-b260-4bb9-b1d3-f058753a35f3)
+
+
+![ARM ASSEMBLY 7](https://github.com/user-attachments/assets/f99d73d6-66c0-4c2e-b22c-e3b7b6844f5d)
