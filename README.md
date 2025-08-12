@@ -1,4 +1,4 @@
-#🤖 Robotic Arm Prototype
+# 🤖 Robotic Arm Prototype
 ## A 5 DOF Robotic Arm 🦾 Designed By Me Using Solidworks.
 
 ### The Entire Prototype Was Designed In Under 6 Hours
